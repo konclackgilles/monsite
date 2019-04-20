@@ -1,0 +1,38 @@
+div
+{
+	background: url("images/soleil.jpg") fixed no-repeat, url("images/mbouda3.jpg") right fixed no-repeat;
+	
+}
+p
+
+{
+	color:white;
+	text-align:center;
+}
+h3,h2, ul
+{
+	color:red;
+	font-size:large;
+}
+.info
+{color:blue;}
+.monimage
+{
+	float:center;
+}
+.image
+{
+clear: both;
+}
+div
+{
+	background-color:maroon;
+}
+body
+{
+	background-image: url("images/tn_soleil.jpg");
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: top right;
+
+}
